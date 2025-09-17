@@ -1,0 +1,32 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 79999,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S23",
+    "price": 69999,
+    "company": "samsung"
+  },
+  {
+    "name": "Xiaomi Redmi Note 12",
+    "price": 18999,
+    "company": "mi"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 55999,
+    "company": "dell"
+  },
+  {
+    "name": "MacBook Air M2",
+    "price": 114999,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "price": 49999,
+    "company": "samsung"
+  }
+]

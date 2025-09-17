@@ -1,0 +1,6 @@
+1. npm init - use for initiate node package manager 
+2. npm i express - to use for handling routes
+3. npm nodemon
+4. npm i mongoose
+
+• regex:
